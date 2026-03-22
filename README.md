@@ -38,5 +38,4 @@ Categories: `pwn` · `web` · `reverse` · `crypto` · `forensics` · `misc`
 
 | Event | Date | Location |
 |---|---|---|
-| [Insomni'hack 2025](./insomniahack-2025/) | 2025-03 | Lausanne 🇨🇭 |
-# writeups
+| [Insomni'hack 2026](./insomniahack-2026/) · #64 | 2026-03-20 | Lausanne 🇨🇭 |

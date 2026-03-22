@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "name": "Insomni'hack 2026",
+      "slug": "insomniahack-2026",
+      "date": "2026-03-20",
+      "location": "Lausanne, Switzerland",
+      "ctftime": "https://ctftime.org/event/2487",
+      "writeups": []
+    }
+  ]
+}
