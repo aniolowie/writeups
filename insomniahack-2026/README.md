@@ -10,7 +10,13 @@
 
 | Challenge | Category | Points | Writeup |
 |---|---|---|---|
-| *(add here)* | | | |
+| wrongdoor | misc | — | |
+| !soairmes | misc | — | |
+| !InsoMCPwned | misc | 0 | |
+| FreeTier | web | 0 | |
+| f1refuxx | web | — | |
+| Poem | misc | — | |
+| soairmes | misc | — | |
 
 ## Notes
 

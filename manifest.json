@@ -6,6 +6,16 @@
       "date": "2026-03-20",
       "location": "Lausanne, Switzerland",
       "ctftime": "https://ctftime.org/event/3146",
+      "result": { "place": 64, "points": 495, "weight": 4.964 },
+      "challenges": [
+        { "name": "wrongdoor",    "slug": "wrongdoor",    "category": "misc", "points": null },
+        { "name": "!soairmes",    "slug": "soairmes-alt", "category": "misc", "points": null },
+        { "name": "!InsoMCPwned", "slug": "insomcpwned",  "category": "misc", "points": 0    },
+        { "name": "FreeTier",     "slug": "freetier",     "category": "web",  "points": 0    },
+        { "name": "f1refuxx",     "slug": "f1refuxx",     "category": "web",  "points": null },
+        { "name": "Poem",         "slug": "poem",         "category": "misc", "points": null },
+        { "name": "soairmes",     "slug": "soairmes",     "category": "misc", "points": null }
+      ],
       "writeups": []
     }
   ]
