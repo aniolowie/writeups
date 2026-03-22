@@ -2,7 +2,7 @@
 
 **Date:** 2026-03-20
 **Location:** Lausanne, Switzerland
-**CTFtime:** https://ctftime.org/event/2487
+**CTFtime:** https://ctftime.org/event/3146
 **Format:** onsite jeopardy
 **Result:** #64 · 495 pts · 4.964 weight
 
